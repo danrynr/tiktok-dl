@@ -1,0 +1,6 @@
+requests
+argsparse
+pytz
+fake-useragent
+dotenv
+rich
